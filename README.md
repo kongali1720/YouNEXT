@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kongali1720/kongali1720.github.io/main/younext.png" alt="YouNEXT Logo" width="380" />
+  <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/youNEXT-GH.png" alt="YouNEXT Logo" width="990" />
 </p>
 
 <p align="center">
