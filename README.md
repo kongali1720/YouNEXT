@@ -1,6 +1,10 @@
 <h1 align="center" style="font-size: 60px;">YouNEXT — The Future of Crypto Trading 🚀</h1>
 
 <p align="center">
+  <img src="https://github.com/kongali1720/kongali1720.github.io/blob/main/younext.png" alt="YouNEXT Logo" width="490" />
+</p>
+
+<p align="center">
   <a href="https://github.com/kongali1720/YouNEXT" title="YouNEXT GitHub Repo">
     <img src="https://img.shields.io/badge/YouNEXT-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="YouNEXT GitHub" />
   </a>&nbsp;&nbsp;
